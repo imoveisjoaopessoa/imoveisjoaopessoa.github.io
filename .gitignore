@@ -1,0 +1,47 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files for Visual Studio
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.swp
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug-*/
+[Dd]ist-*/
+bin/
+obj/
+out/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# ASP.NET Scaffolding
+Scaffolding/
+
+# Npm files
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
+# .NET Core build results
+project.lock.json
+project.fragment.lock.json
